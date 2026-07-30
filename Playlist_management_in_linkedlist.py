@@ -92,7 +92,6 @@ class Playlist:
 
 
  
-
 playlist = Playlist()
 
 n = int(input("Enter number of songs: "))
